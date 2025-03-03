@@ -63,10 +63,15 @@ Solder the switch socket on the back of the left and right keyboard boards.
 
 ## 3 Seeed xiao bleのハンダ付け
 
-![](img/img00002.jpg)
-Solder Seeed xiao ble on the back of the left and right keyboard boards. The difficulty is high, so please do it carefully.
+<b>Note</b>
 <br>
-左右のキーボード基板の裏面に、Seeed xiao bleをハンダ付けします。難度が高いので、注意深く行なってください。
+画像は別のキーボードですが、手順は同じです。
+
+![](img/img00002.jpg)
+
+Solder Seeed xiao ble on the front of the left and right keyboard boards. The difficulty is high, so please do it carefully.
+<br>
+左右のキーボード基板の表面に、Seeed xiao bleをハンダ付けします。難度が高いので、注意深く行なってください。
 <br>
 
 Please follow the steps below.
@@ -76,13 +81,14 @@ Please follow the steps below.
 1 The one with the xiao reset switch is the surface. Apply flux to the 4 BAT and NFC terminals on the back.
 <br>
 1 xiaoのリセットスイッチのある方を表面とする。裏面にある、BATとNFCの端子４つにフラックスを塗る。
+
 ![](img/img00003.jpg)
 
 <br>
 <br> 
-2 Put the back of the keyboard board up and put xiao on it. The one with the xiao reset switch is up.
+2 Put the front of the keyboard board up and put xiao on it. The one with the xiao reset switch is up.
 <br>
-2 キーボード基板の裏面を上にして、xiaoを載せる。xiaoのリセットスイッチのある方を上にする。
+2 キーボード基板の表面を上にして、xiaoを載せる。xiaoのリセットスイッチのある方を上にする。
 <br>
 <br>
 3 Use the pin header included with xiao, insert it into the left and right pin holes, and temporarily fix it.
@@ -92,11 +98,12 @@ Please follow the steps below.
 ![](img/img00004.jpg)
 <br>
 <br>
-4 Change the orientation of the board and xiao. The surface of the keyboard board is on top.
+4 Change the orientation of the board and xiao. The back side of the keyboard board is facing up.
 <br>
-4 基板とxiaoの向きを変える。キーボード基板の表面が上になる。
+4 基板とxiaoの向きを変える。キーボード基板の裏面が上になる。
 
 ![](img/img00005.jpg)
+
 <br>
 <br>
 5 Make sure that there are two rectangular open places on the board where xiao overlaps. Apply flux to the terminal of that part.
@@ -113,6 +120,7 @@ If you put in too much solder, use the solder suction to remove excess solder.
 6 温めたハンダゴテを５の場所（4箇所あるので、１つずつ）に当てる。少し煙が出るほど温めたタイミングで、ハンダ線をハンダゴテに付けて、ハンダを流し込む。
 
 ![](img/img00006.jpg)
+
 <br>
 　四角形の開いた部分から、xiaoの端子にハンダが載っていて、基板の端子とくっついていれば、大丈夫である。
 <br>
@@ -122,6 +130,7 @@ If you put in too much solder, use the solder suction to remove excess solder.
 7 With the back of the keyboard board up, pull out the temporarily fixed pin header from the board and xiao.
 <br>
 7 キーボード基板の裏面を上にして、仮固定のピンヘッダを基板とxiaoから抜く。
+
 ![](img/img00007.jpg)
 
 <br>
@@ -137,27 +146,21 @@ Did you do well?
 上手くできましたか？
 <br>
 <br>
+For safety, use a tester to check whether there is continuity at the following two points. If there is continuity, suck up the excess solder.
+<br>
+安全のため、テスターを使い、次の２箇所が導通していないかどうか調べてください。導通していたら、余分なはんだを吸い取ってください。
+<br>
 
-## 4  JSTケーブルの取り付け
-
-Please turn the back of the keyboard board up.
-<br>
-キーボード基板の裏面を上向きにしてください。
-<br>
-Plug the red cable of the JST cable into the BAT and the black cable into the GND and solder.
-<br>
-JSTケーブルの赤色ケーブルをBATに、黒色ケーブルをGNDに差し込んで、ハンダ付けをしてください。
-<br>
-<br>
-There is something I want you to pay attention to. Make sure that the positive pole of the cable socket of the LiPo battery you want to buy is connected to the BAT and the negative pole to the GND.
-<br>
-There was a case where the red and black sides of the socket attached to the battery sold were reversed.
-<br>
-注意してほしいことがあります。購入するLiPoバッテリーのケーブルのソケットのプラス極がBATに、マイナス極がGNDに導通することを確認してください。
 ![](img/img00009.jpg)
 
+
+## 4  電池ボックス取り付け
+
+Cut the red and black cables of the battery box about 1cm from the base. Peel off the film from the remaining 1cm.
 <br>
-販売されているバッテリーについているソケットの赤色、黒色が左右逆の事例がありました。
+電池ボックスの赤色、黒色のケーブルは根元から１cmぐらいのところで、切断します。１cm残した部分は、皮膜を剥がしてください。
+<br>
+
 <br>
 <br>
 
