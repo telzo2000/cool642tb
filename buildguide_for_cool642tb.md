@@ -156,14 +156,33 @@ For safety, use a tester to check whether there is continuity at the following t
 
 ## 4  電池ボックス取り付け
 
+![](img/img00010.jpg)
+
 Cut the red and black cables of the battery box about 1cm from the base. Peel off the film from the remaining 1cm.
 <br>
 電池ボックスの赤色、黒色のケーブルは根元から１cmぐらいのところで、切断します。１cm残した部分は、皮膜を剥がしてください。
 <br>
+![](img/img00011.jpg)
 
+![](img/img00012.jpg)
 <br>
+Apply double-sided tape to the back of the battery case. Use double-sided tape to secure the battery case and PCB.
 <br>
+電池ケースの裏面に両面テープを貼ります。電池ケースとPCBは両面テープを使って、固定します。
+![](img/img00013.jpg)
 
+Pass the battery case cable through the hole in the PCB and secure it.
+<br>
+電池ケースのケーブルをPCBの穴に通すように固定してください。
+![](img/img00014.jpg)
+
+Turn the back of the PCB face up. Carefully fold the cable extending from the battery case in two places and solder it.
+<br>
+PCBの裏面を上に向けます。電池ケースから延びたケーブルを２箇所、上手に折りたたんで、はんだ付けをします。
+![](img/img00015.jpg)
+![](img/img00016.jpg)
+![](img/img00018.jpg)
+<br>
 
 ## 5 スライドスイッチのハンダ付け
 
@@ -235,7 +254,33 @@ From the back of the trackball board, cover the acrylic part on the PWM3610, and
 <br>
 <br>
 
-## 8 スイッチプレートの組み立て
+## 8 ロータリーエンコーダのはんだ付け
+
+Insert the rotary encoder from the front side of the PCB and solder it on the back side of the PCB.
+<br>
+PCB表面から、ロータリーエンコーダーを差し込み、PCB裏面ではんだ付けをします。
+
+<br><br>
+
+
+## 9a スイッチプレートの組み立て(choc)
+
+Stack the switch plate and PCB in this order from the top, and insert four M2 5mm screws from the top.
+<br>
+Fix the four points from the bottom of the PCB with M3 3mm spacers.
+<br>
+上からスイッチプレート、PCBの順番で重ねて、上からM2 5mmネジを４本差し込みます。
+<br>
+PCBの下からM3 3mmスペーサーで４箇所を固定します。
+<br>
+<br>
+There are 4 places each on the left and right, a total of 8 places.
+<br>
+左右それぞれ4箇所で、合計8箇所行います。
+<br>
+
+
+## 9b スイッチプレートの組み立て(cherryMX)
 
 Insert the M2 8mm screw from the top of the switch plate.
 <br>
@@ -257,9 +302,9 @@ There are 4 places each on the left and right, a total of 8 places.
 PCB下面にM2 8mmネジが少し出ますので、M2 3mmスペーサーで固定します。
 <br>
 左右それぞれ4箇所で、合計8箇所行います。
-<br>
 
-## 9 スイッチの差し込み
+
+## 10 スイッチの差し込み
 
 Plug your favorite key switch into the one you made in section 8.
 <br>
@@ -284,79 +329,21 @@ It's a mistake you often make, so don't worry about it, plug in the key switch m
 <br>
 <br>
 
-## 10 バッテリーの固定と接続
 
-<b>
-Use a LiPo battery. Please respond to various problems arising from use at your own risk.
-<br>
-If you do not agree, please give up using the LiPo battery in cool642tb.
-<br>
-LiPoバッテリーを使用します。使用上、発生した諸問題については、ご自身の責任のもとで対応ください。
-<br>
-同意できない方は、cool642tbにおいて、LiPoバッテリーの使用を諦めてください。
-</b>  
-<br>
-<br>
-First, please check the plus and minus poles of the prepared LiPo battery.
-<br>
-Do not connect to the keyboard's JST cable immediately.
-<br>
-The JST cable extending from the keyboard is the positive pole (BAT) in red and the negative pole (GND) in black.
-<br>
-Make sure that the JST cable socket and the cable destination socket attached to the LiPo battery are connected in the same color.
-<br>
-If the same color is connected to each other, it can be used without any problems.
-<br>
-If they are not the same color, prepare a warm solder, melt the solder that fixes the substrate and the JST cable, and remove the cable.
-<br>
-Then, solder the black cable to the BAT of the substrate and the red cable to the GND. Now you can use it without any problems even if the socket is different.
-<br>
-最初に、用意したLiPoバッテリーのプラス極・マイナス極を確認してください。
-<br>
-すぐに、キーボードのJSTケーブルに繋がないでください。
-<br>
-キーボードから伸びているJSTケーブルは、赤色がプラス極（BAT）、黒色がマイナス極（GND）となっています。
-<br>
-JSTケーブルのソケットと、LiPoバッテリーについているケーブル先のソケットは、同じ色同士がつながるかどうか確認してください。
-<br>
-同じ色同士が繋がるならば、問題なく使えます。
+## 11 ボトムプレートの取り付け
 
-![](img/img00010.jpg)
-
-注　同一メーカーでもソケットの赤色、黒色の差し込みが違うことがあります。
+Insert four M2 3mm screws from the bottom of the bottom plate to secure it. The left and right bottom plates have different shapes, so please align them with the switch plate.
 <br>
-同じ色同士ではないならば、温めたハンダゴテを用意して、基板とJSTケーブルを固定しているハンダを溶かして、ケーブルを取り外してください。
-<br>
-そして、基板のBATに黒色のケーブルを、GNDに赤色のケーブルをはんだ付けしてください。これで、ソケットが違っていても問題なく使用できます。
+ボトムプレートの下面からM2 3mmネジを４箇所差し込んで、固定してください。ボトムプレートは左右の形が違いますので、スイッチプレートと向きを合わせてください。
 <br>
 <br>
-If there is no problem, please connect the JST cable extending from the board to the LiPo battery cable.
+The side with the recess to hide the screw heads will be the bottom of the bottom plate.
 <br>
-問題がないのであれば、基板から伸びているJSTケーブルとLiPoバッテリーのケーブルを繋いでください。
+ネジの頭を隠すための窪みがある方がボトムプレートの下面になります。
 <br>
-    <br>
-        
-
-## 11 ボトムケースの取り付け
-
-Place the LiPo battery in the recess in the center of the bottom case. Use double-sided tape or masking tape to fix it.
-<br>
-LiPoバッテリーをボトムケースの中央にある凹部に置きます。固定には両面テープやマスキングテープを使用してください。
-<br>
-Place the switch knob in the bottom case.
-<br>
-Insert the board into the bottom case, paying attention that the convex part of the slide sitch of the board enters the concave part of the switch knob.
-<br>
-From the bottom of the bottom case, insert and fix the M2 4mm screws in 4 places on the left and right.
-<br>
-ボトムケース内に、スイッチノブを置きます。
-<br>
-スイッチノブの凹部に、基板のスライドスッチの凸部が入るように注意しながら、ボトムケース内に、基板を入れます。
-<br>
-ボトムケース底面から、左右それぞれ4箇所に、M2 4mmネジを差し込み固定します。
 <br>
 
-## 12 トラックボールの固定
+## 12 トラックボールケースの固定
 
 Install the trackball board to fit the 7 pins of the L-shaped through on the right side of the keyboard board.
 <br>
@@ -373,7 +360,7 @@ Insert 2 M2 4mm screws from the bottom of the bottom case and fix the spacer.
 ボールケースの内側から2箇所、M2 4mmネジを差し込み、ボールケース底面でM2 3mmスペーサーで固定します。
 <br>
 ボールケースをトラックボール基板に被せるように差し込みます。
-＜br＞
+<br>
 ボールケース底面にあるスペーサーがボトムケースの凹部に差し込まれるようにします。
 <br>
 ボトムケース底面から2箇所、M2 4mmネジを差し込み、スペーサーを固定します。
@@ -392,9 +379,9 @@ Please attach a 25mm ball to the ball case.
 
 ## 13 キーキャップの装着
 
-Please attach your favorite keycap (40% kit is recommended).
+Please attach your favorite keycap (All 1U size).
 <br>
-お好きなキーキャップ（40％キットがお勧め）を装着してください。
+お好きなキーキャップ（全て1Uサイズ）を装着してください。
 <br>
 
 
