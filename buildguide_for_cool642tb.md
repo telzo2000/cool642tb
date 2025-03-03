@@ -37,7 +37,9 @@ Diodes have polarity, so be careful about the direction in which they are instal
 <br>
 
 [ダイオード（SMD)のはんだ付けの動画](https://youtu.be/ODk16bd4XkA)
+<br>
 [ダイオード（リードタイプ）のはんだ付けの動画](https://youtu.be/lbAQkKzNawM)
+<br>
 [ダイオード（リードタイプ）のはんだ付けの動画２](https://youtu.be/3hWZjaBROL8)
 
 <br>
@@ -396,7 +398,15 @@ Please enjoy a life with a better keyboard.
 よりよいキーボードのある生活を楽しんでください。
 <br>
 
+## 15 動作確認について
 
+ファームウェアの導入について、こちらの記事を参考にしてください。
+<br>
+執筆中...
+
+Keymapの編集について、こちらの記事を参考にしてください。
+<br>
+[zmk_firmwareでのキーマップ編集について](https://sizu.me/m_ki/posts/m3devs7be5km)
 
 
 
