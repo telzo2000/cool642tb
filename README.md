@@ -93,7 +93,7 @@ https://github.com/telzo2000/cool642tb/blob/main/buildguide_for_cool642tb.md
 <br>
 
 
-In addition, you will need a USB cable, etc.
+In addition, NiHM rechargeable batteries (4 AAA size), USB cable, etc. are required.
 <br>
 この他に、NiHM充電池（単４形４本）、USBケーブル等が必要です。
 <br>
