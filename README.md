@@ -1,5 +1,7 @@
 # cool642tb
 
+![](img/img00019.jpg)
+
 ## What is cool642tb?
 
 cool642tb is ortholiner keyboard with trackball.
@@ -105,3 +107,5 @@ In addition, you will need a USB cable, etc.
 [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja)
 
 ![](img/by-nc-sa.png)
+
+![](img/img00020.jpg)
