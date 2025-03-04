@@ -1,0 +1,11 @@
+Comment,Designator,Footprint,JLCPCB Part #ÅioptionalÅj
+1N4148W,D1-20,Diode_SMD,
+1u,C1-2,C_0603_1608Metric,
+100n,C3,C_0603_1608Metric,
+10n,C4,C_0603_1608Metric,
+ 100n (X7R),C5,C_0603_1608Metric,
+ 10n (X7R),C6-7,C_0603_1608Metric,
+100n,C8,C_0603_1608Metric,
+3.3u/25V,C9,C_0603_1608Metric,
+2M,R1,R_0603_1608Metric,
+MCP1700T-1802E/TT,U1,SOT-23,
