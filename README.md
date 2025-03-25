@@ -65,34 +65,37 @@ https://github.com/telzo2000/cool642tb/blob/main/buildguide_for_cool642tb.md
 |8|XIAO nRF52840|2|MCU Board|[seeed studio](https://jp.seeedstudio.com/Seeed-XIAO-BLE-nRF52840-p-5201.html?msclkid=5541f7f3d0f911eca6023fe520de5bfa)<br>[秋月電子](https://akizukidenshi.com/catalog/g/g117341/)|1940円|
 |9|Trackball<br>トラックボール|1|25mm級|[Amazon](https://www.amazon.co.jp/dp/B0D4DYH8XY?ref=ppx_yo2ov_dt_b_fed_asin_title)等|1300円ほど|
 |10|PWM3610|1|Trackball senser|[アリエク](https://ja.aliexpress.com/item/1005007622547772.html?spm=a2g0o.order_list.order_list_main.45.72e8585aVqU7cH&gatewayAdapt=glo2jpn)|1000円ぐらい|
+|11|Rotery Encoder<br>ロータリーエンコーダー|1|EC12互換|||
+|12|Knob<br>ロータリーエンコーダー用ノブ|1|直径19mm以下のもの|||
+
 
 <br>
 
 <b>If you use choc switch...</b>
 | No. | Patrs | Quantity | remarks | Suppliers | Cost |
 |--|--|--|--|--|--|
-|11|Diode<br>ダイオード|42|SMD|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)等|100個で220円程度から|
-|10|Swith socket<br>スイッチソケット|42|choc|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)等|10個で165円程度|
-|11|Screw<br>ネジ|8|スリムヘッドM2 5mm|[遊舎工房](https://shop.yushakobo.jp/products/a0800s2?variant=37665432535201)|50本880円(遊舎工房)|
-|12|Screw<br>ネジ|4|M2 4mm|DIY shop|10本200円程度|
-|13|Screw<br>ネジ|8|M2 3mm|DIY shop|10本200円程度|
-|14|Spacer<br>スペーサー|10|M2 3mm|DIY shop|10本400円程度|
-|15|Keyswitch<br>キースイッチ|42|chocV1及びV2対応|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)|１個100程度|
-|16|Keycap<br>キーキャップ|42|1U、ロープロが最適|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)||
+|13|Diode<br>ダイオード|42|SMD|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)等|100個で220円程度から|
+|14|Swith socket<br>スイッチソケット|42|choc|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)等|10個で165円程度|
+|15|Screw<br>ネジ|8|スリムヘッドM2 5mm|[遊舎工房](https://shop.yushakobo.jp/products/a0800s2?variant=37665432535201)|50本880円(遊舎工房)|
+|16|Screw<br>ネジ|4|M2 4mm|DIY shop|10本200円程度|
+|17|Screw<br>ネジ|8|M2 3mm|DIY shop|10本200円程度|
+|18|Spacer<br>スペーサー|10|M2 3mm|DIY shop|10本400円程度|
+|19|Keyswitch<br>キースイッチ|42|chocV1及びV2対応|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)|１個100程度|
+|20|Keycap<br>キーキャップ|42|1U、ロープロが最適|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)||
 
 <br>
 
 <b>If you use cherryMX switch...</b>
 | No. | Patrs | Quantity | remarks | Suppliers | Cost |
 |--|--|--|--|--|--|
-|11|Diode<br>ダイオード|42|SMDまたはリードタイプ|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)等|100個で220円程度から|
-|10|Swith socket<br>スイッチソケット|42|cherry MX|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)等|10個で165円程度|
-|11|Screw<br>ネジ|8|M2 8mm|DIY shop|10本200円程度|
-|12|Screw<br>ネジ|4|M2 4mm|DIY shop|10本200円程度|
-|13|Screw<br>ネジ|8|M2 3mm|DIY shop|10本200円程度|
-|14|Spacer<br>スペーサー|18|M2 3mm|DIY shop|10本400円程度|
-|15|Keyswitch<br>キースイッチ|42|cherry MX|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)|１個100程度|
-|16|Keycap<br>キーキャップ|42|1U|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)||
+|13|Diode<br>ダイオード|42|SMDまたはリードタイプ|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)等|100個で220円程度から|
+|14|Swith socket<br>スイッチソケット|42|cherry MX|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)等|10個で165円程度|
+|15|Screw<br>ネジ|8|M2 8mm|DIY shop|10本200円程度|
+|16|Screw<br>ネジ|4|M2 4mm|DIY shop|10本200円程度|
+|17|Screw<br>ネジ|8|M2 3mm|DIY shop|10本200円程度|
+|18|Spacer<br>スペーサー|18|M2 3mm|DIY shop|10本400円程度|
+|19|Keyswitch<br>キースイッチ|42|cherry MX|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)|１個100程度|
+|20|Keycap<br>キーキャップ|42|1U|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)||
 
 <br>
 
