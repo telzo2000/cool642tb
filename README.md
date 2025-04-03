@@ -43,8 +43,10 @@ https://sizu.me/m_ki/posts/m3devs7be5km
 
 https://github.com/telzo2000/cool642tb/blob/main/buildguide_for_cool642tb.md
 
+<br>
+ボールベアリング採用のトラックボールについて
 
-
+https://sizu.me/m_ki/posts/67xa3f8r2544
 
 
 <br>
