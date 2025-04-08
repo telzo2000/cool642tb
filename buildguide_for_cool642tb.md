@@ -238,6 +238,9 @@ PWM3610アクリル部品を取り外します。
 Check the pin of the PWM3610 and insert it from the surface of the trackball board. Temporarily fix it with masking tape.
 <br>
 PWM3610のピンを確認して、トラックボール基板の表面から差し込みます。マスキングテープで仮固定します。
+
+![](img/img00022.jpg)
+
 <br>
 <br>
 The back of the trackball board is facing up and the part that came out of the pin hole is soldered.
@@ -253,6 +256,8 @@ PWM3610のレンズ部分がテープで覆われているので、それを外�
 From the back of the trackball board, cover the acrylic part on the PWM3610, and melt the acrylic on the back with a soldering ick to prevent it from coming off.
 <br>
 トラックボール基板の裏面の方から、アクリル部品をPWM3610に被せて、その裏側に出たアクリルをハンダごてで溶かして外れないようにします。
+
+![](img/img00021.jpg)
 <br>
 <br>
 
