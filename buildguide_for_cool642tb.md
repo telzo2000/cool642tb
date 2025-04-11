@@ -1,4 +1,4 @@
-# Buildguide for cool642tb
+　# Buildguide for cool642tb
 <br>
 
 ## 0 部品の確認
@@ -267,6 +267,18 @@ Insert the rotary encoder from the front side of the PCB and solder it on the ba
 <br>
 PCB表面から、ロータリーエンコーダーを差し込み、PCB裏面ではんだ付けをします。
 
+<br><br>
+The rotary encoder has three claws on one side, one claw on both sides, and two claws on the other side.
+<br>
+ロータリーエンコーダーには1辺に３つの爪があり、その両脇の辺に１つの爪があり、残り１辺に２つの爪があります。
+<br>
+Of these, 3 nails and 2 nails are the parts related to the input, so we will solder them.
+<br>
+このうち、３つの爪と２つの爪は入力に関わる部分ですので、はんだ付けをします。
+<br>
+For one nail, there is no problem without soldering.
+<br>
+１つの爪については、はんだ付けしなくても問題ありません。
 <br><br>
 
 
