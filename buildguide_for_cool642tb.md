@@ -1,4 +1,4 @@
-　# Buildguide for cool642tb
+ 　# Buildguide for cool642tb
 <br>
 
 ## 0 部品の確認
@@ -235,9 +235,9 @@ Remove the PWM3610 acrylic parts.
 PWM3610アクリル部品を取り外します。
 <br>
 <br>
-Check the pin of the PWM3610 and insert it from the surface of the trackball board. Temporarily fix it with masking tape.
+Check the pin of the PMW3610 and insert it from the surface of the trackball board. Temporarily fix it with masking tape.
 <br>
-PWM3610のピンを確認して、トラックボール基板の表面から差し込みます。マスキングテープで仮固定します。
+PMW3610のピンを確認して、トラックボール基板の表面から差し込みます。マスキングテープで仮固定します。
 
 ![](img/img00022.jpg)
 
@@ -248,14 +248,14 @@ The back of the trackball board is facing up and the part that came out of the p
 トラックボール基板の裏面を上向きにして、ピン穴からでた部分をはんだ付けします。
 <br>
 <br>
-The lens part of the PWM3610 is covered with tape, so remove it.
+The lens part of the PMW3610 is covered with tape, so remove it.
 <br>
-PWM3610のレンズ部分がテープで覆われているので、それを外します。
+PMW3610のレンズ部分がテープで覆われているので、それを外します。
 <br>
 <br>
-From the back of the trackball board, cover the acrylic part on the PWM3610, and melt the acrylic on the back with a soldering ick to prevent it from coming off.
+From the back of the trackball board, cover the acrylic part on the PMW3610, and melt the acrylic on the back with a soldering ick to prevent it from coming off.
 <br>
-トラックボール基板の裏面の方から、アクリル部品をPWM3610に被せて、その裏側に出たアクリルをハンダごてで溶かして外れないようにします。
+トラックボール基板の裏面の方から、アクリル部品をPMW3610に被せて、その裏側に出たアクリルをハンダごてで溶かして外れないようにします。
 
 ![](img/img00021.jpg)
 <br>
