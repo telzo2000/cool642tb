@@ -67,7 +67,7 @@ https://sizu.me/m_ki/posts/67xa3f8r2544
 |8|XIAO nRF52840|2|MCU Board|[seeed studio](https://jp.seeedstudio.com/Seeed-XIAO-BLE-nRF52840-p-5201.html?msclkid=5541f7f3d0f911eca6023fe520de5bfa)<br>[秋月電子](https://akizukidenshi.com/catalog/g/g117341/)|1940円|
 |9|Trackball<br>トラックボール|1|25mm級|[Amazon](https://www.amazon.co.jp/dp/B0D4DYH8XY?ref=ppx_yo2ov_dt_b_fed_asin_title)等|1300円ほど|
 |10|PWM3610|1|Trackball senser|[アリエク](https://ja.aliexpress.com/item/1005007622547772.html?spm=a2g0o.order_list.order_list_main.45.72e8585aVqU7cH&gatewayAdapt=glo2jpn)|1000円ぐらい|
-|11|Rotery Encoder<br>ロータリーエンコーダー|1|EC12互換|||
+|11|Rotery Encoder<br>ロータリーエンコーダー|1|EC12互換|[遊舎工房](https://shop.yushakobo.jp/products/3762?variant=42672275226855)|１個330円ぐらい|
 |12|Knob<br>ロータリーエンコーダー用ノブ|1|直径19mm以下のもの|||
 
 
