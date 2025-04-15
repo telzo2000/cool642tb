@@ -225,6 +225,11 @@ L字コンスルーのバネのついていない方を、キーボード基板�
 
 ## 7 トラックボール基板の作成
 
+Note: The silk of "Front side" and "Back side" on the board is written for the ball.
+<br>
+注意　基板に「Front side」や「Back side」のシルクは、ボールに対しての表記です。
+<br>
+<br>
 The trackball board has components installed from the beginning. The implemented side is the back side.
 <br>
 トラックボール基板は最初から部品が実装されています。実装されている面を裏面とします。
