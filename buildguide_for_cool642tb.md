@@ -188,13 +188,13 @@ PCBの裏面を上に向けます。電池ケースから延びたケーブル�
 
 ## 5 スライドスイッチのハンダ付け
 
-Insert the switch from the back of the PCB with the switch knob facing outward.
+Insert the switch from the front of the PCB with the switch knob facing outward.
 <br>
-スイッチのつまみが外側に向くようにして、PCBの裏面から差し込みます。
+スイッチのつまみが外側に向くようにして、PCBの表面から差し込みます。
 
 After temporarily fixing it with masking tape, etc., solder the exposed part of the PCB.
 <br>
-マスキングテープなどで仮固定をしてから、PCBの表面に出た部分をはんだ付けします。
+マスキングテープなどで仮固定をしてから、PCBの裏面に出た部分をはんだ付けします。
 <br>
 
 
