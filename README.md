@@ -48,6 +48,11 @@ https://github.com/telzo2000/cool642tb/blob/main/buildguide_for_cool642tb.md
 
 https://sizu.me/m_ki/posts/67xa3f8r2544
 
+<br>
+
+キーが反応したいときは
+
+https://sizu.me/m_ki/posts/hmiznwmr0uhh
 
 <br>
 
