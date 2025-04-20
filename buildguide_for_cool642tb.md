@@ -1,4 +1,4 @@
-# Buildguide for cool642tb
+ 　# Buildguide for cool642tb
 <br>
 
 ## 0 部品の確認
@@ -188,13 +188,13 @@ PCBの裏面を上に向けます。電池ケースから延びたケーブル�
 
 ## 5 スライドスイッチのハンダ付け
 
-Insert the switch from the back of the PCB with the switch knob facing outward.
+Insert the switch from the front of the PCB with the switch knob facing outward.
 <br>
-スイッチのつまみが外側に向くようにして、PCBの裏面から差し込みます。
+スイッチのつまみが外側に向くようにして、PCBの表面から差し込みます。
 
 After temporarily fixing it with masking tape, etc., solder the exposed part of the PCB.
 <br>
-マスキングテープなどで仮固定をしてから、PCBの表面に出た部分をはんだ付けします。
+マスキングテープなどで仮固定をしてから、PCBの裏面に出た部分をはんだ付けします。
 <br>
 
 
@@ -225,6 +225,11 @@ L字コンスルーのバネのついていない方を、キーボード基板�
 
 ## 7 トラックボール基板の作成
 
+Note: The silk of "Front side" and "Back side" on the board is written for the ball.
+<br>
+注意　基板に「Front side」や「Back side」のシルクは、ボールに対しての表記です。
+<br>
+<br>
 The trackball board has components installed from the beginning. The implemented side is the back side.
 <br>
 トラックボール基板は最初から部品が実装されています。実装されている面を裏面とします。
@@ -235,9 +240,9 @@ Remove the PWM3610 acrylic parts.
 PWM3610アクリル部品を取り外します。
 <br>
 <br>
-Check the pin of the PWM3610 and insert it from the surface of the trackball board. Temporarily fix it with masking tape.
+Check the pin of the PMW3610 and insert it from the surface of the trackball board. Temporarily fix it with masking tape.
 <br>
-PWM3610のピンを確認して、トラックボール基板の表面から差し込みます。マスキングテープで仮固定します。
+PMW3610のピンを確認して、トラックボール基板の表面から差し込みます。マスキングテープで仮固定します。
 
 ![](img/img00022.jpg)
 
@@ -248,14 +253,14 @@ The back of the trackball board is facing up and the part that came out of the p
 トラックボール基板の裏面を上向きにして、ピン穴からでた部分をはんだ付けします。
 <br>
 <br>
-The lens part of the PWM3610 is covered with tape, so remove it.
+The lens part of the PMW3610 is covered with tape, so remove it.
 <br>
-PWM3610のレンズ部分がテープで覆われているので、それを外します。
+PMW3610のレンズ部分がテープで覆われているので、それを外します。
 <br>
 <br>
-From the back of the trackball board, cover the acrylic part on the PWM3610, and melt the acrylic on the back with a soldering ick to prevent it from coming off.
+From the back of the trackball board, cover the acrylic part on the PMW3610, and melt the acrylic on the back with a soldering ick to prevent it from coming off.
 <br>
-トラックボール基板の裏面の方から、アクリル部品をPWM3610に被せて、その裏側に出たアクリルをハンダごてで溶かして外れないようにします。
+トラックボール基板の裏面の方から、アクリル部品をPMW3610に被せて、その裏側に出たアクリルをハンダごてで溶かして外れないようにします。
 
 ![](img/img00021.jpg)
 <br>
@@ -267,6 +272,18 @@ Insert the rotary encoder from the front side of the PCB and solder it on the ba
 <br>
 PCB表面から、ロータリーエンコーダーを差し込み、PCB裏面ではんだ付けをします。
 
+<br><br>
+The rotary encoder has three claws on one side, one claw on both sides, and two claws on the other side.
+<br>
+ロータリーエンコーダーには1辺に３つの爪があり、その両脇の辺に１つの爪があり、残り１辺に２つの爪があります。
+<br>
+Of these, 3 nails and 2 nails are the parts related to the input, so we will solder them.
+<br>
+このうち、３つの爪と２つの爪は入力に関わる部分ですので、はんだ付けをします。
+<br>
+For one nail, there is no problem without soldering.
+<br>
+１つの爪については、はんだ付けしなくても問題ありません。
 <br><br>
 
 
