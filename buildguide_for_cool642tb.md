@@ -229,6 +229,10 @@ Caution PMW3610 is prone to sensor damage when exposed to high temperature heat.
 <br>
 注意　PMW3610は高温の熱にさらされるとセンサーの破損が発生しやすいです。それぞれのピンのはんだ付けは短時間で済ませてください。
 <br>
+As for my example, soldering is processed in 2-3 seconds per pin.
+<br>
+私の例ですが、はんだ付けを１つのピンにつき、2〜3秒で処理します。
+<br>
 <br>
 Note: The silk of "Front side" and "Back side" on the board is written for the ball.
 <br>
