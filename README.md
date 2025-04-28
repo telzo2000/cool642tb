@@ -50,9 +50,15 @@ https://sizu.me/m_ki/posts/67xa3f8r2544
 
 <br>
 
-キーが反応したいときは
+キーが反応しないときは
 
 https://sizu.me/m_ki/posts/hmiznwmr0uhh
+
+<br>
+
+トラックボールが反応しない時のチェックリスト的なもの
+
+https://sizu.me/m_ki/posts/w1ac1xtt9ds1
 
 <br>
 
