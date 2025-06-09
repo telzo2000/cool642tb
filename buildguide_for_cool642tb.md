@@ -66,6 +66,13 @@ Solder the switch socket on the back of the left and right keyboard boards.
 ## 3 Seeed xiao bleのハンダ付け
 
 <b>Note</b>
+PCB ver.1.21以降の場合、次の動画を参考にしてください。
+<br>
+
+[xiao bleのハンダ付け動画](https://youtu.be/98yqLjzfdl4)
+
+
+PCB ver.1.2以前の方は、次の説明を参考にしてください。
 <br>
 画像は別のキーボードですが、手順は同じです。
 
@@ -202,6 +209,32 @@ After temporarily fixing it with masking tape, etc., solder the exposed part of 
 
 <br>
 
+## 5.5　リセットスイッチのハンダ付け
+
+ <br>
+PCB ver.1.21以降、リセットスイッチが付きました。
+<br>
+<br>
+
+![](img/img00025.jpg)
+
+
+Insert the reset switch from the bottom of the board.
+<br>
+基板の下面からリセットスイッチを挿入します。
+<br>
+Cut off any leads sticking out from the board using pliers or similar.
+<br>
+基板からはみ出たリードをニッパーなどで切り取ります。
+<br>
+Then, solder it.
+<br>
+その後、ハンダ付けをしてください。
+<br>
+
+[リセットスイッチハンダ付け動画](https://youtu.be/Pl24Exfh8b8)
+
+
 ## 6 L字コンスルー（またはピンヘッダ） のハンダ付け
 
 First, use a nipper or cutter to cut the L-shaped conslue into 7 pins.
@@ -222,6 +255,7 @@ L字コンスルーのバネのついていない方を、キーボード基板�
 基板裏面を上向にして、ハンダ付けをします。
 <br>
 <br>
+
 
 ## 7 トラックボール基板の作成
 
