@@ -5,12 +5,12 @@
       "Application": "Pcbnew",
       "Version": "8.0.7"
     },
-    "CreationDate": "2025-05-03T19:39:34+09:00"
+    "CreationDate": "2025-06-04T19:27:19+09:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "cool642tb_R_with_tb",
-      "GUID": "636f6f6c-3634-4327-9462-5f525f776974",
+      "Name": "cool642tb_R_v121",
+      "GUID": "636f6f6c-3634-4327-9462-5f525f763132",
       "Revision": "rev?"
     },
     "Size": {
@@ -32,37 +32,37 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "cool642tb_R_with_tb-F_Cu.gbr",
+      "Path": "cool642tb_R_v121-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "cool642tb_R_with_tb-B_Cu.gbr",
+      "Path": "cool642tb_R_v121-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "cool642tb_R_with_tb-F_Silkscreen.gbr",
+      "Path": "cool642tb_R_v121-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "cool642tb_R_with_tb-B_Silkscreen.gbr",
+      "Path": "cool642tb_R_v121-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "cool642tb_R_with_tb-F_Mask.gbr",
+      "Path": "cool642tb_R_v121-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "cool642tb_R_with_tb-B_Mask.gbr",
+      "Path": "cool642tb_R_v121-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "cool642tb_R_with_tb-Edge_Cuts.gbr",
+      "Path": "cool642tb_R_v121-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
