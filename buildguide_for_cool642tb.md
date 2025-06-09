@@ -160,6 +160,7 @@ For safety, use a tester to check whether there is continuity at the following t
 安全のため、テスターを使い、次の２箇所が導通していないかどうか調べてください。導通していたら、余分なはんだを吸い取ってください。
 <br>
 
+
 ![](img/img00009.jpg)
 
 
