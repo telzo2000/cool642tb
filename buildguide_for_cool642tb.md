@@ -164,7 +164,7 @@ For safety, use a tester to check whether there is continuity at the following t
 ![](img/img00009.jpg)
 
 
-## 4  電池ボックス取り付け
+## 4a  電池ボックス取り付け（cool642tb）
 
 ![](img/img00010.jpg)
 
@@ -194,7 +194,18 @@ PCBの裏面を上に向けます。電池ケースから延びたケーブル�
 ![](img/img00018.jpg)
 <br>
 
-## 5 スライドスイッチのハンダ付け
+## 4b 電池ボックスの取り付け（cool642tb_r2）
+
+
+Insert the battery box from the top of the board and temporarily secure it with masking tape. Then, cut off any leads sticking out from the top of the board with pliers or something similar and solder them in place. Attach the four pieces, matching the left and right sides. Also, be careful of the orientation.
+<br>
+電池ボックスを基板の上面から、差し込み、マスキングテープで仮固定します。そして、基板の上面から飛び出したリードをニッパーなどで切り取り、ハンダ付けをしてください。左右で合わせて、４つ取り付けます。また、向きに注意してください。
+<br>
+
+
+
+
+## 5a スライドスイッチのハンダ付け（cool642tb）
 
 Insert the switch from the front of the PCB with the switch knob facing outward.
 <br>
@@ -209,6 +220,21 @@ After temporarily fixing it with masking tape, etc., solder the exposed part of 
 [スライドスイッチのはんだ付けの作業動画](https://youtu.be/5nkRklibay4)
 
 <br>
+
+## 5b スライドスイッチのハンダ付け（cool642tb_r2）
+
+Insert the switch from the underside of the PCB with the tab facing outwards.
+<br>
+スイッチのつまみが外側に向くようにして、PCBの下面から差し込みます。
+
+Temporarily fix it with masking tape or something similar, then solder the part that is exposed on the top surface of the PCB.
+<br>
+マスキングテープなどで仮固定をしてから、PCBの上面に出た部分をはんだ付けします。
+<br>
+
+
+[スライドスイッチのはんだ付けの作業動画](https://youtu.be/5nkRklibay4)
+
 
 ## 5.5　リセットスイッチのハンダ付け
 
