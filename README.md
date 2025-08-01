@@ -43,6 +43,8 @@ https://sizu.me/m_ki/posts/m3devs7be5km
 
 https://github.com/telzo2000/cool642tb/blob/main/buildguide_for_cool642tb.md
 
+※cool642tbとcool642tb_r2共通になります。
+
 <br>
 ボールベアリング採用のトラックボールについて
 
@@ -50,7 +52,7 @@ https://sizu.me/m_ki/posts/67xa3f8r2544
 
 <br>
 
-キーが反応しないときは
+キーが反応しないときは（cool642tb用）
 
 https://sizu.me/m_ki/posts/hmiznwmr0uhh
 
@@ -74,7 +76,8 @@ https://sizu.me/m_ki/posts/w1ac1xtt9ds1
 |4|Ball case|1|3D Print|||
 |5|pinheader<br>ピンヘッダ|1|7pin,L字形<br>コンスルーでも可|[秋月電子](https://akizukidenshi.com/catalog/g/g101627/)<br>[モノタロウ](https://www.monotaro.com/p/4372/1914/?srsltid=AfmBOooNFXhsyVNPPtl8VZ9vMxbrLr2A5btmrf5l_N4rMR9fy4N_bydG)<br>[マルツオンライン](https://www.marutsu.co.jp/pc/i/106993/)||
 |6|Slide switch<br>スライドスイッチ|2||[秋月電子](https://akizukidenshi.com/catalog/g/g115370/)|１個30円|
-|7|AAAA Battery case<br>単４電池ケース|2||[マルツオンライン](https://www.marutsu.co.jp/pc/i/59151/?srsltid=AfmBOoo5ctOn9kOUGJA7pCL4M2f4Y3IolfSweL7epFytDI-BLKNBKMa8)|１個81円|
+|7a|AAAA Battery case<br>単４電池ケース|2|cool642tb用|[マルツオンライン](https://www.marutsu.co.jp/pc/i/59151/?srsltid=AfmBOoo5ctOn9kOUGJA7pCL4M2f4Y3IolfSweL7epFytDI-BLKNBKMa8)|１個81円|
+|7b|AAAA Battery case<br>単４電池ケース|4|cool64tb_r2用|[秋月電子](https://akizukidenshi.com/catalog/g/g102670/)|１個40円|
 |8|XIAO nRF52840|2|MCU Board|[seeed studio](https://jp.seeedstudio.com/Seeed-XIAO-BLE-nRF52840-p-5201.html?msclkid=5541f7f3d0f911eca6023fe520de5bfa)<br>[秋月電子](https://akizukidenshi.com/catalog/g/g117341/)|1940円|
 |9|Trackball<br>トラックボール|1|25mm級|[Amazon](https://www.amazon.co.jp/dp/B0D4DYH8XY?ref=ppx_yo2ov_dt_b_fed_asin_title)等|1300円ほど|
 |10|PMW3610|1|Trackball senser|[アリエク](https://ja.aliexpress.com/item/1005007622547772.html?spm=a2g0o.order_list.order_list_main.45.72e8585aVqU7cH&gatewayAdapt=glo2jpn)|1000円ぐらい|
