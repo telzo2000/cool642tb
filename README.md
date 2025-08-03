@@ -4,7 +4,7 @@ cool642tb
 ![](img/img00019.jpg)
 
 cool642tb_r2
-![](img/img00026.jpg)
+![](img/img00027.jpg)
 
 
 ## What is cool642tb?
