@@ -8,6 +8,9 @@ cool642tb_r2
 <br>
 ![](img/img00027.jpg)
 
+cool642tb_r3
+<br>
+![](img/img00028.jpg)
 
 ## What is cool642tb?
 
