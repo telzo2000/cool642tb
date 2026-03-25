@@ -50,7 +50,11 @@ https://sizu.me/m_ki/posts/m3devs7be5km
 
 https://github.com/telzo2000/cool642tb/blob/main/buildguide_for_cool642tb.md
 
-※cool642tbとcool642tb_r2共通になります。
+cool642tbとcool642tb_r2共通になります。
+
+https://github.com/telzo2000/cool642tb/blob/main/buildguide_for_cool642tb_r3.md
+
+cool642tb_r3は上記になります。
 
 <br>
 ボールベアリング採用のトラックボールについて
@@ -97,7 +101,7 @@ https://sizu.me/m_ki/posts/w1ac1xtt9ds1
 <b>If you use choc switch...</b>
 | No. | Patrs | Quantity | remarks | Suppliers | Cost |
 |--|--|--|--|--|--|
-|13|Diode<br>ダイオード|42|SMD|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)等|100個で220円程度から|
+|13|Diode<br>ダイオード|43|SMD|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)等|100個で220円程度から|
 |14|Swith socket<br>スイッチソケット|42|choc|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)等|10個で165円程度|
 |15|Screw<br>ネジ|8|スリムヘッドM2 5mm|[遊舎工房](https://shop.yushakobo.jp/products/a0800s2?variant=37665432535201)|50本880円(遊舎工房)|
 |16|Screw<br>ネジ|4|M2 4mm|DIY shop|10本200円程度|
@@ -105,13 +109,15 @@ https://sizu.me/m_ki/posts/w1ac1xtt9ds1
 |18|Spacer<br>スペーサー|10|M2 3mm|DIY shop|10本400円程度|
 |19|Keyswitch<br>キースイッチ|42|chocV1及びV2対応|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)|１個100程度|
 |20|Keycap<br>キーキャップ|42|1U、ロープロが最適|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)||
+|21|Bearing<br>ベアリング|3|内径 2mm 外径 5mm 幅 2.3mm|[Amazon](https://www.amazon.co.jp/dp/B0CV7XLDYP?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)|１個275円|
+[22]Trackball<br>トラックボール|1|直径25mm|[Amazon](https://www.amazon.co.jp/dp/B0D4DYH8XY?ref=nb_sb_ss_w_as-reorder_k5_1_4&amp=&crid=38V17Q3PDS2F4&sprefix=25mm&th=1)|1500円程度|
 
 <br>
 
 <b>If you use cherryMX switch...</b>
 | No. | Patrs | Quantity | remarks | Suppliers | Cost |
 |--|--|--|--|--|--|
-|13|Diode<br>ダイオード|42|SMDまたはリードタイプ|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)等|100個で220円程度から|
+|13|Diode<br>ダイオード|43|SMDまたはリードタイプ|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)等|100個で220円程度から|
 |14|Swith socket<br>スイッチソケット|42|cherry MX|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)等|10個で165円程度|
 |15|Screw<br>ネジ|8|M2 8mm|DIY shop|10本200円程度|
 |16|Screw<br>ネジ|4|M2 4mm|DIY shop|10本200円程度|
@@ -119,8 +125,27 @@ https://sizu.me/m_ki/posts/w1ac1xtt9ds1
 |18|Spacer<br>スペーサー|18|M2 3mm|DIY shop|10本400円程度|
 |19|Keyswitch<br>キースイッチ|42|cherry MX|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)|１個100程度|
 |20|Keycap<br>キーキャップ|42|1U|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)||
+|21|Bearing<br>ベアリング|3|内径 2mm 外径 5mm 幅 2.3mm|[Amazon](https://www.amazon.co.jp/dp/B0CV7XLDYP?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)|１個275円|
+[22]Trackball<br>トラックボール|1|直径25mm|[Amazon](https://www.amazon.co.jp/dp/B0D4DYH8XY?ref=nb_sb_ss_w_as-reorder_k5_1_4&amp=&crid=38V17Q3PDS2F4&sprefix=25mm&th=1)|1500円程度|
 
 <br>
+
+<b>If you make cool642tb_r3... </b>
+| No. | Patrs | Quantity | remarks | Suppliers | Cost |
+|--|--|--|--|--|--|
+|13|Diode<br>ダイオード|43|SMD|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)等|100個で220円程度から|
+|14|Swith socket<br>スイッチソケット|42|choc|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)等|10個で165円程度|
+|15|Screw<br>ネジ|14|M2 6mm|[遊舎工房](https://shop.yushakobo.jp/products/a0800s2?variant=37665432535201)|50本880円(遊舎工房)|
+|16|Nut<br>ナット|10|M2 1.6mm|DIY shop|10本200円程度|
+|17|Keyswitch<br>キースイッチ|42|chocV1及びV2対応|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)|１個100程度|
+|18|Keycap<br>キーキャップ|42|1U、ロープロが最適|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)||
+|19|Horizontail Rotaly Encoder<br>水平ロータリーエンコーダ|1|垂直ローリーエンコーダの代替|[遊舎工房](https://shop.yushakobo.jp/products/ckw12)|1430円|
+|20|電池ケースカバー|2|3D Print|||
+|21|Bearing<br>ベアリング|3|内径 2mm 外径 5mm 幅 2.3mm|[Amazon](https://www.amazon.co.jp/dp/B0CV7XLDYP?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)|１個275円|
+[22]Trackball<br>トラックボール|1|直径25mm|[Amazon](https://www.amazon.co.jp/dp/B0D4DYH8XY?ref=nb_sb_ss_w_as-reorder_k5_1_4&amp=&crid=38V17Q3PDS2F4&sprefix=25mm&th=1)|1500円程度|
+
+<br>
+
 
 
 In addition, NiHM rechargeable batteries (4 AAA size), USB cable, etc. are required.
