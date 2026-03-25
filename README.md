@@ -145,7 +145,7 @@ https://sizu.me/m_ki/posts/w1ac1xtt9ds1
 |19|Horizontail Rotaly Encoder<br>水平ロータリーエンコーダ|1|垂直ローリーエンコーダの代替|[遊舎工房](https://shop.yushakobo.jp/products/ckw12)|1430円|
 |20|電池ケースカバー|2|3D Print|||
 |21|Bearing<br>ベアリング|3|内径 2mm 外径 5mm 幅 2.3mm|[Amazon](https://www.amazon.co.jp/dp/B0CV7XLDYP?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)|１個275円|
-[22]Trackball<br>トラックボール|1|直径25mm|[Amazon](https://www.amazon.co.jp/dp/B0D4DYH8XY?ref=nb_sb_ss_w_as-reorder_k5_1_4&amp=&crid=38V17Q3PDS2F4&sprefix=25mm&th=1)|1500円程度|
+|22|Trackball<br>トラックボール|1|直径25mm|[Amazon](https://www.amazon.co.jp/dp/B0D4DYH8XY?ref=nb_sb_ss_w_as-reorder_k5_1_4&amp=&crid=38V17Q3PDS2F4&sprefix=25mm&th=1)|1500円程度|
 
 <br>
 
