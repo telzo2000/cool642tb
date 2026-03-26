@@ -347,6 +347,11 @@ ver.1.01のPCBでは、専用の水平ロータリーエンコーダだけでな
 
 ## 9　ケースの組み立て(choc)
 
+参考動画
+https://youtu.be/fa9LJaqi6KU
+
+
+
 Insert the bottom case onto the PCB from below. Align the protrusions and indentations of the case with the components on the PCB.
 <br>
 PCBに下側にボトムケースをはめ込みます。ケースの凹凸とPCBの部品を合わせてください。
@@ -422,6 +427,10 @@ If you want the ball to spin even better, use a ball case with bearings. Use M2 
 
 
 ## 12　電池ケースカバーの組み立て
+
+参考動画
+https://youtu.be/fa9LJaqi6KU
+
 
 The insert nuts are heat-sealed into the battery case cover.
 <br>
