@@ -219,9 +219,9 @@ PCB ver.1.21以降、リセットスイッチが付きました。
 ![](img/img00025.jpg)
 
 
-Insert the reset switch from the bottom of the board.
+Insert the reset switch from the top of the board.
 <br>
-基板の下面からリセットスイッチを挿入します。
+基板の上面からリセットスイッチを挿入します。
 <br>
 Cut off any leads sticking out from the board using pliers or similar.
 <br>
